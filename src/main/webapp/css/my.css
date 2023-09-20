@@ -1,0 +1,14 @@
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: lightgray;
+    color: black;
+}
+th {
+    background-color: darkgray;
+    font-weight: bold;
+}
+th:hover, td:hover {
+    border: 1px solid red;
+}
+
